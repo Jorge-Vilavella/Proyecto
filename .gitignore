@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+
+# Basura de Python
+__pycache__/
+*.pyc
+
+# Basura de Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
